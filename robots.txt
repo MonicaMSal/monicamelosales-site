@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Liberar bots de IA
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://monicamelosales.com.br/sitemap.xml

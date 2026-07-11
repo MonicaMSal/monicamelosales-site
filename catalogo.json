@@ -1,0 +1,52 @@
+{
+  "fichas": [
+    {
+      "slug": "raio-x-operacao",
+      "titulo": "Raio-X da Operação",
+      "resumo": "Diagnóstico presencial dos 3 maiores vazamentos operacionais em R$, com garantia de valor. Custo R$ 2.000, duração 7 dias.",
+      "tags": ["diagnóstico", "vazamentos", "raio-x"]
+    },
+    {
+      "slug": "blindagem-operacional-2027",
+      "titulo": "Blindagem Operacional 2027",
+      "resumo": "Implementação do Segundo Cérebro Digital (6 camadas) + ERPSb para emissão automática de NFS-e. Custo R$ 7.000, duração 30-45 dias.",
+      "tags": ["segundo cérebro", "erpsb", "nfs-e", "automação"]
+    },
+    {
+      "slug": "reforma-tributaria-2027",
+      "titulo": "Reforma Tributária 2027",
+      "resumo": "A Reforma Tributária 2027 introduz IBS e CBS. A janela oficial de decisão de regime é 1º a 30 de setembro de 2026 (Resolução CGSN nº 186), com efeitos a partir de janeiro de 2027.",
+      "tags": ["reforma", "ibs", "cbs", "decisão de regime"]
+    },
+    {
+      "slug": "split-payment",
+      "titulo": "Split Payment",
+      "resumo": "Split payment é a retenção automática de imposto no momento do pagamento. 2026 é fase de teste com 1%. Implantação gradual a partir do 2º semestre de 2027. Vendas de Simples Nacional puro NÃO sofrem split.",
+      "tags": ["split payment", "simples nacional", "retenção"]
+    },
+    {
+      "slug": "nfse-petropolis",
+      "titulo": "NFS-e em Petrópolis",
+      "resumo": "Desde janeiro de 2026, Petrópolis emite NFS-e exclusivamente pelo Emissor Nacional. Quem não emite nota já está em desconformidade HOJE.",
+      "tags": ["nfs-e", "petrópolis", "emissor nacional"]
+    },
+    {
+      "slug": "segundo-cerebro-digital",
+      "titulo": "Segundo Cérebro Digital",
+      "resumo": "Metodologia de 6 camadas (Identidade, Substrato, Regras, Skills, Ferramentas, Agentes) que elimina a dependência da memória humana na operação.",
+      "tags": ["segundo cérebro", "os coach", "metodologia"]
+    },
+    {
+      "slug": "erpsb",
+      "titulo": "ERPSb",
+      "resumo": "ERP open-source que emite NFS-e automaticamente no momento do pagamento via Pix. Integrado com Focus NFe e Mercado Pago.",
+      "tags": ["erpsb", "erp", "automação", "pix"]
+    },
+    {
+      "slug": "ai-visibility-2026",
+      "titulo": "AI Visibility 2026",
+      "resumo": "Produto que torna sua clínica visível para ChatGPT, Claude, Gemini e Perplexity. Inclui catálogo estruturado, site otimizado e agente de chat. Custo R$ 4.900, duração 4-6 semanas.",
+      "tags": ["ai visibility", "chatgpt", "agente", "visibilidade"]
+    }
+  ]
+}
