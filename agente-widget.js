@@ -1,7 +1,7 @@
 (function() {
   // Configuração
   const CONFIG = {
-    catalogoUrl: '/monicamelosales-site/catalogo.json',
+    catalogoUrl: 'catalogo.json',
     corPrimaria: '#C89B3C',
     corFundo: '#232529',
     corTexto: '#F6F4EF',
