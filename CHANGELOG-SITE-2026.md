@@ -1,3 +1,16 @@
+# Changelog — Site Atualizado 2026-07-18
+
+## Atualização: nova abrangência + AI Visibility (2026-07-18)
+
+- **Hero:** subtítulo ampliado (clínicas de estética, saúde e escritórios de advocacia) + alerta de conformidade imediata (NFS-e Nacional obrigatória em Petrópolis desde jan/2026; janela de regime 1º a 30 de setembro de 2026).
+- **Nova seção "Esta solução é para você?"** (`#para-quem`): cards É / NÃO É para filtrar leads (franquias, sem presença digital, sem decisor).
+- **Serviços:** gatilho piloto no Raio-X (Blindagem por R$ 4.900, 30% OFF, 3 vagas), detalhes técnicos ERPSb + Focus NFe + Mercado Pago na Blindagem, status "adormecido até out/2026" no Acompanhamento, copy expandida em Inteligência Comercial e AI Visibility.
+- **FAQ:** +3 perguntas (OS Coach × OAB/CNJ, Split Payment × Simples puro, custo de não automatizar). Pergunta sobre ERP já existia — não duplicada.
+- **JSON-LD:** FAQPage estendido com as 3 novas perguntas; ProfessionalService (subtipo de LocalBusiness — não foi duplicado schema) com descrição ampliada; URLs corrigidas para a URL real do GitHub Pages.
+- **CSS:** classes `mms-*` adaptadas ao brand escuro/dourado existente (variáveis `--brand-*` mapeadas para `--cor-destaque` #C89B3C, `--cor-primaria` #232529, etc.).
+
+---
+
 # Changelog — Site Atualizado 2026-07-08
 
 ## Correções Críticas Aplicadas

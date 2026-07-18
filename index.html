@@ -9,7 +9,7 @@
     <meta property="og:title" content="Monica Melo Sales | Governança Operacional + Decisão com IA">
     <meta property="og:description" content="Consultoria de governança operacional para clínicas de estética em Petrópolis/RJ. Reforma Tributária 2027, automação de NFS-e e Segundo Cérebro Digital.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://monicamelosales.com.br">
+    <meta property="og:url" content="https://monicamsal.github.io/monicamelosales-site/">
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -25,8 +25,8 @@
       "@context": "https://schema.org",
       "@type": "ProfessionalService",
       "name": "Monica Melo Sales - Governança Operacional",
-      "description": "Consultoria de governança operacional para clínicas de estética, escritórios e prestadores de serviço em Petrópolis/RJ. Especialista em Reforma Tributária 2027, automação de NFS-e e Segundo Cérebro Digital.",
-      "url": "https://monicamelosales.com.br",
+      "description": "Consultoria de governança operacional e AI Visibility para clínicas de estética, saúde e escritórios de advocacia em Petrópolis/RJ. Especialista em Reforma Tributária 2027, automação de NFS-e e Segundo Cérebro Digital.",
+      "url": "https://monicamsal.github.io/monicamelosales-site/",
       "telephone": "+5521974196727",
       "email": "melosalesm@gmail.com",
       "address": {
@@ -147,6 +147,30 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "O Raio-X entrega o diagnóstico em 7 dias. A Blindagem Operacional completa leva de 30 a 45 dias, com treinamento incluído."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O OS Coach está de acordo com as normas da OAB e do CNJ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim, por desenho. O OS Coach exige anonimização de dados sigilosos, supervisão humana efetiva e revisão de toda saída do sistema, alinhando-se à Recomendação OAB nº 001/2024 e à Resolução CNJ nº 615/2025."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O Split Payment da Reforma Tributária vai me atingir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Não, se você for MEI ou optante do Simples Nacional puro. O mecanismo de retenção no Pix só alcança quem estiver no regime regular de IBS/CBS, de forma gradual a partir do 2º semestre de 2027."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto custa não automatizar a operação da clínica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O Raio-X da Operação calcula isso com seus dados reais. Os riscos já mapeados incluem: desconformidade fiscal presente (NFS-e Nacional), vazamentos operacionais não quantificados e perda de contratos B2B para concorrentes que geram crédito de IBS/CBS."
           }
         }
       ]
@@ -678,7 +702,7 @@
 
         .faq-item.active .faq-answer {
             padding: 0 30px 24px;
-            max-height: 300px;
+            max-height: 600px;
         }
 
         .faq-answer p {
@@ -874,6 +898,86 @@
             }
         }
 
+        /* =========================================
+           NOVOS BLOCOS 2026-07 (mms)
+           Variáveis mapeadas para o brand atual
+           ========================================= */
+        :root {
+            --brand-primary: var(--cor-destaque);   /* #C89B3C dourado */
+            --brand-accent: var(--cor-destaque);    /* #C89B3C dourado */
+            --brand-text: var(--cor-texto);         /* #F6F4EF off-white */
+            --brand-bg: var(--cor-primaria);        /* #232529 */
+            --brand-bg-alt: var(--cor-secundaria);  /* #2B2D31 */
+            --brand-urgent: var(--cor-erro);        /* #ef4444 */
+        }
+
+        .mms-urgent-box {
+            background: rgba(239, 68, 68, 0.08);
+            border-left: 4px solid var(--brand-urgent);
+            border-radius: 6px;
+            padding: 16px 20px;
+            margin-bottom: 40px;
+            font-size: 15px;
+            text-align: left;
+        }
+
+        .mms-urgent-box strong {
+            color: var(--brand-urgent);
+        }
+
+        .mms-grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 24px;
+        }
+
+        .mms-card {
+            background: var(--brand-bg-alt);
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            border-radius: 12px;
+            padding: 32px;
+        }
+
+        .mms-card.yes { border-top: 4px solid var(--brand-primary); }
+        .mms-card.no { border-top: 4px solid var(--brand-urgent); }
+
+        .mms-card h3 {
+            margin: 0 0 16px;
+            color: var(--brand-primary);
+            font-size: 22px;
+        }
+
+        .mms-card ul {
+            padding-left: 20px;
+            margin: 0;
+        }
+
+        .mms-card li {
+            margin-bottom: 10px;
+            color: var(--cor-texto-secundario);
+        }
+
+        .mms-card li strong {
+            color: var(--brand-text);
+        }
+
+        .mms-pilot-badge {
+            display: inline-block;
+            background: rgba(200, 155, 60, 0.15);
+            border: 1px solid rgba(200, 155, 60, 0.35);
+            color: var(--brand-accent);
+            font-size: 13px;
+            font-weight: 600;
+            padding: 8px 14px;
+            border-radius: 20px;
+            margin-top: 16px;
+            line-height: 1.5;
+        }
+
+        @media (max-width: 768px) {
+            .mms-grid-2 { grid-template-columns: 1fr; }
+        }
+
         /* Animations */
         @keyframes fadeInUp {
             from {
@@ -916,10 +1020,16 @@
                 <div class="hero-text">
                     <h1>GOVERNANÇA OPERACIONAL + <span>DECISÃO COM IA</span></h1>
                     <p class="hero-subtitle">
-                        Transformo complexidade operacional em clareza, estrutura e decisões inteligentes com IA. 
-                        Especialista em Reforma Tributária 2027 para clínicas de estética em Petrópolis/RJ.
+                        Transformo complexidade operacional em clareza, estrutura e decisões inteligentes com IA.
+                        Especialista em <strong>Reforma Tributária 2027</strong> e automação de processos para
+                        <strong>clínicas de estética, saúde e escritórios de advocacia</strong> em Petrópolis/RJ.
                     </p>
-                    
+
+                    <!-- Alerta de urgência -->
+                    <div class="mms-urgent-box">
+                        <strong>⚠️ Atenção à Conformidade Imediata:</strong> Petrópolis emite NFS-e exclusivamente pelo Emissor Nacional desde janeiro de 2026. Quem ainda não emite neste padrão já está em desconformidade <em>hoje</em>, não em risco futuro. Além disso, a janela de decisão de regime tributário é fixa: <strong>1º a 30 de setembro de 2026</strong>.
+                    </div>
+
                     <div class="hero-stats">
                         <div class="stat">
                             <span class="stat-number">16</span>
@@ -953,6 +1063,39 @@
                         <p style="margin-top: 8px; font-weight: 600;">+R$ 2.3M</p>
                         <p style="font-size: 14px; color: var(--cor-texto-secundario);">em vazamentos identificados</p>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Para Quem É Section -->
+    <section id="para-quem" class="para-quem">
+        <div class="container">
+            <div class="section-header">
+                <h2>Esta solução é para você?</h2>
+            </div>
+
+            <div class="mms-grid-2">
+                <!-- Card PARA QUEM É -->
+                <div class="mms-card yes">
+                    <h3>✅ É para você se:</h3>
+                    <ul>
+                        <li>Você é dono(a) de clínica de estética avançada, micropigmentação, day spa, dermatologia ou centro híbrido (fisioterapia + estética) em Petrópolis/RJ.</li>
+                        <li>Você possui um escritório de advocacia (8-20 pessoas) e precisa de "Regras vivas" para prazos e protocolo com conformidade OAB/CNJ.</li>
+                        <li>Sente que a operação e a margem do negócio dependem demais da memória humana e de processos manuais.</li>
+                        <li>Quer garantir a <strong>redução de 60%</strong> na alíquota para procedimentos com caráter terapêutico, evitando tributação como "estética pura".</li>
+                    </ul>
+                </div>
+
+                <!-- Card PARA QUEM NÃO É -->
+                <div class="mms-card no">
+                    <h3>❌ NÃO é para você se:</h3>
+                    <ul>
+                        <li>Você é uma <strong>unidade de franquia</strong> de depilação/laser (a decisão de regime e sistemas é resolvida pela matriz, não pela ponta).</li>
+                        <li>Sua clínica não possui site próprio ou presença digital mínima.</li>
+                        <li>Não há um decisor disponível para aprovar mudanças de processo, conteúdo e a implementação de novas ferramentas.</li>
+                        <li>Você acredita que pode "esperar a Reforma terminar" para agir (isso significa perder a janela de setembro de 2026).</li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -1075,12 +1218,13 @@
                         <i class="ph ph-clock"></i>
                         7 dias · Presencial
                     </div>
-                    <p>Diagnóstico direto ao ponto: os 3 maiores vazamentos da sua operação e quanto cada um custa por mês.</p>
+                    <p>Diagnóstico presencial pago, entregue em 7 dias. Identifica os 3 maiores vazamentos operacionais em reais, calculados apenas a partir de dados reais coletados.</p>
                     <div class="guarantee">
                         <i class="ph ph-shield-check"></i>
                         <strong>Garantia:</strong> se não encontrarmos economia real, você recebe o valor de volta.
                     </div>
                     <div class="price">R$ 2.000</div>
+                    <span class="mms-pilot-badge">🔥 CONDIÇÃO PILOTO: Feche a Blindagem ao vivo após o Raio-X e pague apenas R$ 4.900 (30% OFF). Limitado a 3 vagas.</span>
                 </div>
 
                 <!-- Produto 2 -->
@@ -1091,10 +1235,10 @@
                         <i class="ph ph-clock"></i>
                         30-45 dias
                     </div>
-                    <p>Implementação do seu Segundo Cérebro Digital + ERPSb configurado.</p>
+                    <p>Implementação completa do Segundo Cérebro Digital (6 camadas) em 30 a 45 dias, com ERPSb — nosso ERP open-source integrado a Focus NFe e Mercado Pago — para emissão automática de NFS-e no Pix.</p>
                     <ul>
                         <li>Segundo Cérebro (6 camadas)</li>
-                        <li>ERPSb com NF automática</li>
+                        <li>ERPSb com emissão automática de NFS-e no Pix</li>
                         <li>Conciliação Pix/Cartão</li>
                         <li>Dashboard Semáforo</li>
                         <li>2 sessões de treinamento</li>
@@ -1111,19 +1255,19 @@
                         <i class="ph ph-clock"></i>
                         15 dias
                     </div>
-                    <p>Mapeamento de concorrência, análise de mercado e estruturação de oferta comercial.</p>
+                    <p>Mapeamento de concorrência, análise de mercado e estruturação de oferta comercial. Ideal para perfis sem urgência tributária imediata (ex: consultórios médicos) ou como upsell natural pós-Blindagem.</p>
                     <div class="price">R$ 2.500</div>
                 </div>
 
                 <!-- Produto 4 -->
                 <div class="service-card">
-                    <span class="badge-future">ABERTURA EM JAN/2027</span>
+                    <span class="badge-future">ADORMECIDO ATÉ OUT/2026 · 1ª COBRANÇA JAN/2027</span>
                     <h3>Acompanhamento Estratégico</h3>
                     <div class="service-duration">
                         <i class="ph ph-clock"></i>
                         Mensal
                     </div>
-                    <p>Reuniões quinzenais, novos processos documentados, refinamento de automações e IA.</p>
+                    <p>Plano mensal de manutenção pós-Blindagem: reuniões quinzenais, novos processos documentados e refinamento de automações e IA. Exclusivo para clientes que já concluíram a Blindagem Operacional.</p>
                     <div class="price">R$ 1.200/mês</div>
                 </div>
 
@@ -1140,8 +1284,8 @@
                         <li>Diagnóstico de visibilidade (baseline)</li>
                         <li>Catálogo de 50+ fichas estruturadas</li>
                         <li>Site otimizado para IAs com JSON-LD</li>
-                        <li>Agente comercial que qualifica leads</li>
-                        <li>Medição mensal de AI Share of Voice</li>
+                        <li>Agente Comercial (widget) que qualifica leads</li>
+                        <li>Medição contínua de AI Share of Voice com protocolo de perguntas neutras em ambiente limpo</li>
                     </ul>
                     <div class="guarantee">
                         <i class="ph ph-shield-check"></i>
@@ -1209,6 +1353,36 @@
                     </div>
                     <div class="faq-answer">
                         <p>O Raio-X entrega o diagnóstico em 7 dias. A Blindagem Operacional completa leva de 30 a 45 dias, com treinamento incluído.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>O OS Coach está de acordo com as normas da OAB e do CNJ?</h3>
+                        <i class="ph ph-caret-down"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Sim, por desenho. O OS Coach exige anonimização de dados sigilosos, supervisão humana efetiva e revisão possível de toda saída do sistema. Isso segue os mesmos princípios da Recomendação OAB nº 001/2024 e da Resolução CNJ nº 615/2025. O posicionamento para o sócio cético não é "confie na IA", mas sim "o escritório fica conforme às normas que a própria OAB publicou".</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>O Split Payment da Reforma Tributária vai me atingir?</h3>
+                        <i class="ph ph-caret-down"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Não, se você for MEI ou optante do Simples Nacional puro. O mecanismo de retenção no Pix só alcança quem estiver no regime regular de IBS/CBS, e de forma gradual a partir do 2º semestre de 2027. Isso vale hoje e continua valendo depois de 2027; não é uma isenção temporária.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>Quanto custa não automatizar a operação da clínica?</h3>
+                        <i class="ph ph-caret-down"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Não existe uma fórmula genérica, e o Raio-X da Operação existe justamente para calcular isso caso a caso, com dados reais. O que já está mapeado como risco concreto hoje: desconformidade fiscal presente (quem não emite pelo Emissor Nacional já está irregular), vazamentos operacionais não quantificados e perda de competitividade com clientes PJ que preferem fornecedores que geram crédito integral de IBS/CBS.</p>
                     </div>
                 </div>
             </div>
