@@ -1,31 +1,32 @@
 # MEI e Simples Nacional na Reforma — alíquotas e a decisão de regime
 
+> Revisado em 23/11/2026.
+
 ## Definição
 
-O optante do Simples Nacional "puro" continua recolhendo tudo pelo DAS (guia única) e **não sofre [[../conceitos/split-payment]] nas suas vendas**. A novidade da Reforma é a **escolha**: a partir de 2027, a empresa do Simples pode apurar IBS/CBS "por fora", pelo regime regular (regime híbrido — base legal: art. 517 da LC 214/2025), o que gera crédito integral para clientes PJ mas expõe o caixa ao split e à apuração separada. Ficar como está ou migrar é a **decisão de regime** — e a resposta certa muda de clínica para clínica.
+O optante do Simples Nacional pode manter IBS/CBS recolhidos dentro do DAS ou, quando elegível, optar pelo regime regular para esses tributos, observados os períodos de opção. Optar pelo regime regular **não significa sair automaticamente do Simples Nacional**. Ficar como está ou optar é a **decisão de regime** — e a resposta muda de clínica para clínica. A opção para jan–jun/2027 ocorreu de 1º/09 a 30/10/2026; a próxima janela está prevista para 1º a 31/03/2027 (ver [[../prazos/calendario-2026-2027]]).
 
 ## Impacto prático para prestadores de serviço
 
-- **Simples puro (como está):** sem split, sem apuração nova — mas gera pouco crédito para cliente empresa. Quem atende PJ arrisca perder contrato para concorrente que gera crédito integral (fato 5 do briefing).
-- **Simples híbrido / regime regular:** gera crédito cheio para clientes PJ; em troca, sente o split (2º sem/2027, Pix/TED primeiro) e a alíquota por fora. Para quem vive de consumidor final (a maioria das clínicas de estética), raramente compensa — mas é conta caso a caso, e é exatamente essa conta que o Raio-X entrega.
-- **Serviços de saúde:** redução de 60% na alíquota de IBS/CBS; **estética sem caráter terapêutico tende à alíquota cheia** — o enquadramento serviço a serviço (fronteira saúde×estética) mexe direto na margem. É o gancho G2 do funil.
-- **MEI:** fora da janela de setembro (SIMEI decide em janeiro, como sempre); a mudança concreta é operacional — NF em toda venda a partir de 1º/jan/2027 (ver [[../prazos/calendario-2026-2027]]).
-- **A própria Monica:** MEI com teto de R$ 81.000/ano (decisão travada S7.2: ficar MEI em 2026, alarme de fechamentos em R$ 75k) — o teto é também argumento comercial ("agenda limitada por desenho").
+- **IBS/CBS no DAS (como está):** sem apuração nova — mas o crédito aproveitado por cliente empresa tende a ser menor. Quem atende PJ pode perder contrato para concorrente que gera crédito integral.
+- **Regime regular de IBS/CBS:** gera crédito integral para clientes PJ; em troca, exige apuração própria e maior custo de conformidade, e o impacto do [[../conceitos/split-payment]] dependerá da regulamentação. Para quem vive de consumidor final (a maioria das clínicas de estética) a vantagem costuma ser menor — mas é conta caso a caso, e é essa conta que o Raio-X entrega.
+- **Serviços de saúde:** a redução de 60% (art. 130 da LC 214/2025) aplica-se somente aos serviços relacionados no **Anexo III**. Não presumir o benefício pelo CNAE, nome comercial, registro profissional ou laudo; conferir serviço, classificação e requisitos.
+- **Advocacia:** redução de 30% conforme art. 127 da LC 214/2025, observados os requisitos legais.
+- **MEI:** limite de receita de R$ 81.000 em 2026; R$ 110.000 no ano-calendário de 2027; limite geral de R$ 140.000 a partir de 01/01/2028 (LC 238/2026). Início de atividade em 2027: R$ 9.166,67 por mês de atividade (fração de mês conta como mês inteiro). Até dois empregados, observadas as condições legais. A DASN-SIMEI não substitui a nota fiscal.
+- **A própria Monica:** MEI com teto de R$ 81.000/ano em 2026 (alarme de fechamentos em R$ 75k) — o teto é também argumento comercial ("agenda limitada por desenho"). Reavaliar com o limite de R$ 110.000 para 2027.
 
-## ⚠️ Erros conhecidos nos materiais brutos (não repetir)
+## ⚠️ Não repetir
 
-1. Aplicar split/retenção no Pix a clínica Simples/MEI — **falso** (ledger S1.2); qualquer contador desmonta em 5 minutos.
-2. Citar "Art. 517 da LC 214" como "NF obrigatória do MEI" — **errado**: o art. 517 é a base do regime híbrido do Simples (a decisão de regime). Na dúvida, citar o fato sem número de artigo (regra do briefing §4.8).
-3. Alíquota "26,5–28%" como retenção universal — é estimativa da alíquota de referência cheia, não retenção aplicável a Simples.
+1. Afirmar retenção de split no Pix de clínica Simples/MEI como certeza, ou, no outro extremo, prometer isenção permanente.
+2. Citar o art. 517 da LC 214 como base de "nota fiscal obrigatória do MEI".
+3. Usar alíquota de referência estimada como retenção universal.
 
 ## Fontes
 
-1. `ledger.md`, S1.2 (2026): "Split NÃO incide sobre vendas de Simples 'puro' (DAS); incide se a empresa optar pelo regime regular de IBS/CBS... Gancho honesto para Simples: '2027 força uma decisão que ninguém te contou'".
-2. `ledger.md`, Missão 4, S7.1 (2026): "Art. 517... altera a LC 123 para permitir que optantes do Simples apurem/destaquem IBS/CBS 'por fora' (regime híbrido), gerando crédito integral para clientes PJ; vigência 1º/jan/2027" — base primária: LC 214/2025, art. 517; janela de opção: Resolução CGSN nº 186 (2026).
-3. `ledger.md`, S7.2 (2026): teto MEI R$ 81k/ano, decisão "ficar MEI e reduzir a meta", alarme em R$ 75k.
-4. `tarefas/briefing-batch1-prospeccao.md`, §4 fatos 3, 4, 5, 6 e 8 (2026) — inclui a redução de 60% para saúde × alíquota cheia para estética sem caráter terapêutico.
-5. `raw/PRODUTO 1 RAIO-X DA OPERAÇÃO.md`, linha 53 (2026) — registro do erro da alíquota 26,5–28%; correção em `avaliacao-materiais.md`, §2 (2026).
+1. [Lei Complementar 238/2026](https://planalto.gov.br/ccivil_03/leis/lcp/lcp238.htm)
+2. [Lei Complementar 214/2025, texto compilado](https://planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm)
+3. [Receita Federal — Simples Nacional 2027: novos prazos](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade/)
 
 ## Relacionados
 
-[[../conceitos/split-payment]] · [[../prazos/calendario-2026-2027]] · [[reducao-60-saude]] *(a criar)* · [[decisao-de-regime]] *(a criar)* · [[teto-mei-81k]] *(a criar)*
+[[../conceitos/split-payment]] · [[../prazos/calendario-2026-2027]]

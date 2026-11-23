@@ -169,7 +169,7 @@
       if (texto.toLowerCase().includes('raio-x') || texto.toLowerCase().includes('diagnóstico')) {
         msgBot.innerHTML = `O Raio-X da Operação custa R$ 2.000 e é um diagnóstico presencial dos 3 maiores vazamentos da sua operação em R$, com garantia de valor. Quer agendar? <a href="https://wa.me/${CONFIG.whatsapp}" target="_blank" style="color: ${CONFIG.corPrimaria}">Fale no WhatsApp</a>`;
       } else if (texto.toLowerCase().includes('reforma') || texto.toLowerCase().includes('tributária')) {
-        msgBot.innerHTML = `A Reforma Tributária 2027 força cada clínica a decidir o regime tributário até 30/set/2026. A janela oficial é de 1º a 30 de setembro. Posso te ajudar com isso — <a href="https://wa.me/${CONFIG.whatsapp}" target="_blank" style="color: ${CONFIG.corPrimaria}">fale com a Monica</a>.`;
+        msgBot.innerHTML = `A Reforma Tributária muda a decisão de regime de IBS/CBS: a janela do primeiro semestre de 2027 já terminou (cancelamento até 20/12/2026) e a próxima está prevista para 1º a 31 de março de 2027. Posso te ajudar a se preparar — <a href="https://wa.me/${CONFIG.whatsapp}" target="_blank" style="color: ${CONFIG.corPrimaria}">fale com a Monica</a>.`;
       } else if (texto.toLowerCase().includes('preço') || texto.toLowerCase().includes('custo')) {
         msgBot.innerHTML = `Temos 5 produtos: Raio-X (R$ 2.000), Blindagem (R$ 7.000), Inteligência Comercial (R$ 2.500), Acompanhamento (R$ 1.200/mês) e AI Visibility (R$ 4.900). Qual te interessa?`;
       } else {

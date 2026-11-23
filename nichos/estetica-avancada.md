@@ -9,11 +9,11 @@
 | Melhor ângulo | **G1 — decisão de regime** (estética pura; exceção: Dra. Mariana Leal, híbrida fisio+estética → G2, já no batch 1) |
 | Telefones disponíveis | 9 de 24 |
 
-**Por que G1:** é o coração do ICP — esteticistas autônomas e centros de estética, quase todas prováveis Simples/MEI, sem tese terapêutica. O gancho honesto: a decisão de regime até 2027, com janela oficial em setembro/2026, e o risco de perder cliente PJ para quem gera crédito. **8 das 10 clínicas do batch 1 vêm deste nicho** — é o nicho que valida (ou mata) o script.
+**Por que G1:** é o coração do ICP — esteticistas autônomas e centros de estética, quase todas prováveis Simples/MEI, sem tese terapêutica. O gancho honesto: a decisão de regime, com a próxima janela oficial prevista para 1º a 31/03/2027 (a de 2026 já encerrou), e o risco de perder cliente PJ para quem gera crédito. **8 das 10 clínicas do batch 1 vêm deste nicho** — é o nicho que valida (ou mata) o script.
 
 ## Mensagem exemplo (G1 — adaptar, nunca copiar idêntica)
 
-> Oi [Nome], Monica, daqui de Petrópolis. A Reforma Tributária força cada clínica de estética a decidir até 2027: seguir no Simples do jeito que está ou mudar de regime — e cada clínica tem uma resposta diferente. A janela oficial de decisão abre em setembro. Quer um resumo de 1 minuto de como isso pega [micropigmentação / limpeza de pele / estética corporal]?
+> Oi [Nome], Monica, daqui de Petrópolis. A Reforma Tributária traz uma decisão para cada clínica de estética: manter IBS/CBS no Simples do jeito que está ou optar pelo regime regular — e cada clínica tem uma resposta diferente. A próxima janela oficial está prevista para março de 2027. Quer um resumo de 1 minuto de como isso pega [micropigmentação / limpeza de pele / estética corporal]?
 
 ## Clínicas do nicho
 

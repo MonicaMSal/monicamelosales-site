@@ -6,14 +6,14 @@
 |---|---|
 | Clínicas no nicho | **6** |
 | Urgência predominante | **ALTO** (6 de 6) |
-| Melhor ângulo | **G2 — enquadramento 60%** (massoterapia pode ter caráter terapêutico; o registro/CNAE certo separa redução de alíquota cheia) |
+| Melhor ângulo | **G2 — enquadramento 60%** (a redução de 60% depende de o serviço constar do Anexo III da LC 214/2025; registro/CNAE, isoladamente, não garantem) |
 | Telefones disponíveis | 2 de 6 |
 
 **Por que G2:** é o nicho onde a fronteira saúde×estética é mais real — drenagem, quiropraxia e massoterapia esportiva têm tese terapêutica defensável. O ângulo "o teu enquadramento define se tu pagas alíquota cheia" é específico e verdadeiro. NÃO usar o gancho de "fiscalização/autuação" das mensagens do CSV — medo genérico, tom errado.
 
 ## Mensagem exemplo (G2 — adaptar, nunca copiar idêntica)
 
-> Oi [Nome], Monica, daqui de Petrópolis. A Reforma criou uma linha que mexe direto com massoterapia: trabalho com caráter terapêutico entra na redução de 60% do imposto; o que for lido como estético tende à alíquota cheia. O enquadramento certo (ou errado) mexe na tua margem todo mês. Quer o resumo de 1 minuto?
+> Oi [Nome], Monica, daqui de Petrópolis. A Reforma criou uma linha que mexe direto com massoterapia: a redução de 60% do imposto vale só para serviços listados no Anexo III da LC 214/2025; o que ficar fora da lista não recebe o benefício automaticamente. O enquadramento certo (ou errado) mexe na tua margem todo mês. Quer o resumo de 1 minuto?
 
 ## Clínicas do nicho
 

@@ -131,3 +131,14 @@ define margem e clientes PJ.
 **Data:** 2026-07-08
 **Validado contra:** ledger.md, avaliacao-materiais.md, CLAUDE.md
 **Aprovador:** Pendente (Monica)
+
+---
+
+# Changelog — Revisão normativa 2026-11-23
+
+- **Prazos:** janela de opção pelo regime regular de IBS/CBS para jan–jun/2027 (1º/09 a 30/10/2026) marcada como encerrada; cancelamento de 03/11 a 20/12/2026; próxima janela prevista para 1º a 31/03/2027 (efeitos jul–dez/2027; cancelamento até 31/05/2027).
+- **Split Payment:** apenas testes técnicos em ambiente controlado (desde 15/10/2026); removidas afirmações sem norma específica (isenção permanente para Simples/MEI, "2º semestre de 2027", etapas B2B/sem cartões, alíquota de teste de 1%).
+- **MEI:** limites R$ 81.000 (2026), R$ 110.000 (2027) e R$ 140.000 (a partir de 2028), conforme LC 238/2026.
+- **Saúde e advocacia:** redução de 60% condicionada ao Anexo III da LC 214/2025 (art. 130); advocacia com redução de 30% (art. 127).
+- **Arquivos:** `index.html` (alerta, FAQ, JSON-LD), `servicos/blindagem-operacional-2027`, `agente-widget.js`, `catalogo.json`, `prazos/`, `conceitos/`, `aliquotas/`, `nichos/`, `index.md`.
+- **Fontes:** Receita Federal (Simples Nacional 2027 e testes do Split Payment), LC 214/2025 e LC 238/2026.
