@@ -4,7 +4,7 @@
 
 ## Definição
 
-O optante do Simples Nacional pode manter IBS/CBS recolhidos dentro do DAS ou, quando elegível, optar pelo regime regular para esses tributos, observados os períodos de opção. Optar pelo regime regular **não significa sair automaticamente do Simples Nacional**. Ficar como está ou optar é a **decisão de regime** — e a resposta muda de clínica para clínica. A opção para jan–jun/2027 ocorreu de 1º/09 a 30/10/2026; a próxima janela está prevista para 1º a 31/03/2027 (ver [[../prazos/calendario-2026-2027]]).
+O optante do Simples Nacional pode manter IBS/CBS recolhidos dentro do DAS ou, quando elegível, optar pelo regime regular para esses tributos, observados os períodos de opção. A base legal é o art. 517 da LC 214/2025, e a opção é **semestral** (cada janela vale para jan–jun ou jul–dez). Optar pelo regime regular **não significa sair automaticamente do Simples Nacional**. Ficar como está ou optar é a **decisão de regime** — e a resposta muda de clínica para clínica. A opção para jan–jun/2027 ocorreu de 1º/09 a 30/10/2026; a próxima janela está prevista para 1º a 31/03/2027 (ver [[../prazos/calendario-2026-2027]]).
 
 ## Impacto prático para prestadores de serviço
 

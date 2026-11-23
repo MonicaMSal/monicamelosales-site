@@ -8,6 +8,8 @@ Linha do tempo dos marcos da transição do IBS/CBS que afetam prestadores de se
 
 ## Marcos
 
+A opção pelo regime regular de IBS/CBS é **semestral** (art. 517 da LC 214/2025): a janela de 2026 vale para jan–jun/2027 e a de março/2027, para jul–dez/2027.
+
 | Quando | O que acontece | Quem sente |
 |---|---|---|
 | **jan/2026** (já vigente) | NFS-e de Petrópolis passa a ser emitida **exclusivamente pelo Emissor Nacional** ("Nota Imperial" descontinuada) — quem não emite nota já está irregular hoje | Todos os prestadores da cidade |

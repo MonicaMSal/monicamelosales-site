@@ -142,3 +142,9 @@ define margem e clientes PJ.
 - **Saúde e advocacia:** redução de 60% condicionada ao Anexo III da LC 214/2025 (art. 130); advocacia com redução de 30% (art. 127).
 - **Arquivos:** `index.html` (alerta, FAQ, JSON-LD), `servicos/blindagem-operacional-2027`, `agente-widget.js`, `catalogo.json`, `prazos/`, `conceitos/`, `aliquotas/`, `nichos/`, `index.md`.
 - **Fontes:** Receita Federal (Simples Nacional 2027 e testes do Split Payment), LC 214/2025 e LC 238/2026.
+
+## Fechamento da revisão (2026-11-23)
+
+- **Art. 517 da LC 214/2025:** referência legal incluída, com explicação de que a opção pelo regime regular de IBS/CBS é semestral (jan–jun ou jul–dez).
+- **Acompanhamento Estratégico:** badge e textos ajustados para separar abertura de vagas (prevista para jan/2027) do início da cobrança; disponível somente para clientes que concluírem a Blindagem.
+- **Inteligência Comercial e AI Visibility:** mantidas sem alteração.
